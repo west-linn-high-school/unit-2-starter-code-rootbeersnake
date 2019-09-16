@@ -1,11 +1,14 @@
+import java.util.Scanner;
+
 public class Jabberwocky{
- public static void main(String[] args){   
+ public static void main(String[] args){
     System.out.println("'Twas brillig, and the slithy toves/");
     System.out.println("    Did gyre and gimble in the wabe:");
     System.out.println("All mimsy were the \"borogroves\"/");
     System.out.println("    and the mome raths out grabe.");
-    
-    
-    
+
+    Scanner scan = new Scanner(System.in);
+    String a = scan.nextLine();
+    double a = String a;
     }
 }
