@@ -18,5 +18,6 @@ public class Geometry{
     z = (double) a/b;
     System.out.println("Z = " + z);
     System.out.println("50 + 25 is " + 50 + 25);
+    System.out.println(a+b);
     }
 }
